@@ -1,5 +1,4 @@
-### Prazer, sou Daniel! 🤓
-</br>
+# Welcome, i'm Daniel! 🤓
 
 ### **Contatos**
 
