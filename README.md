@@ -1,4 +1,4 @@
-### Ei, Você por aqui? Prazer, sou Daniel! 🤓
+### Prazer, sou Daniel! 🤓
 </br>
 
 ### **Contatos**
