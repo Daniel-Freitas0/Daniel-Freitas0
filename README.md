@@ -1,8 +1,18 @@
-# **Welcome, i'm Daniel!** 🤓
+Welcome, I'm Daniel Freitas 🤓
+==========================
+
+* 🌍  I'm based in São Paulo, Brazil.
+* 🚀  I'm currently studing Computer Science on [SPTech School](https://www.sptech.school).
+* 🖥️  On the Road to Becoming a Data Scientist.
+
+</br>
+
+<a href="https://www.github.com/Daniel-Freitas0" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Daniel-Freitas0?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+
+
 
 ### **Contatos**
-
-
 
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:daniel.siqueira@sptech.school)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-freitas-150072210)
