@@ -18,6 +18,11 @@ src="https://img.shields.io/github/followers/Daniel-Freitas0?logo=github&style=f
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-freitas-150072210)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danielfreitas.zip/)
 
+#
+### **Estatísticas**
+
+![Daniel GitHub](https://github-readme-stats.vercel.app/api?username=Daniel-Freitas0&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=transparent&locale=pt-BR)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Freitas0&layout=compact&theme=transparent&locale=pt-BR&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 #
@@ -61,4 +66,3 @@ src="https://img.shields.io/github/followers/Daniel-Freitas0?logo=github&style=f
 ![snake gif](https://github.com/Daniel-Freitas0/Daniel-Freitas0/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
