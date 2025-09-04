@@ -2,7 +2,7 @@ Welcome, I'm Daniel Freitas 🤓
 ==========================
 
 * 🌍  I'm based in São Paulo, Brazil.
-* 🧑‍💼 Working with Pre Sales at Hewlett Packard Enterprise Brazil (HPE)
+* 🧑‍💼 Working with Data Analist at Hub Brasil
 * 🚀  I'm currently studing Computer Science on [SPTech School](https://www.sptech.school).
 * 🖥️  On the Road to Becoming a Data Scientist.
 
